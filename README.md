@@ -8,8 +8,8 @@
 #### $npm install
 # Instale as dependências da Criação de usuario
 
-###$ $cd '.\Criação de usuario'
-###$ npm install
+### $cd '.\Criação de usuario'
+### $npm install
 
 # Abrindo o projeto do ChatBot
 ### $cd ChatBot
